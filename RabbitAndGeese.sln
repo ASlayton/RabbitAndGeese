@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitAndGeese", "RabbitAndGeese\RabbitAndGeese.csproj", "{DF423349-8B10-4BB9-BAB4-4C363995FAF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitAndGeese", "RabbitAndGeese\RabbitAndGeese.csproj", "{DF423349-8B10-4BB9-BAB4-4C363995FAF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA0310F6-BF8B-4C16-9503-237D529CC229}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
