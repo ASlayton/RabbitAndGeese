@@ -12,6 +12,7 @@ namespace RabbitAndGeese.Controllers
     [ApiController]
     public class GeeseController : ControllerBase
     {
+        //look at NSS notes for another way to write this
         static List<Goose> Geese = new List<Goose>
         {
             new Goose { Name="Gerald", Sex = Sex.Male, Social = false},
