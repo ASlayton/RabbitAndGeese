@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace RabbitAndGeese.Models
 {
     //ctrl + . will move class to new thingie?
-    public enum Earsize
+    public enum Size
     {
         Small,
         Medium,

@@ -10,6 +10,7 @@ namespace RabbitAndGeese.Models
     {
         public string Name { get; set; }
         public Sex Sex { get; set; }
+        public Size Size {get; set;}
         public bool Social { get; set; }
     }
 }
